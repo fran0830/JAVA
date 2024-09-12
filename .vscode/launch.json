@@ -1,0 +1,42 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Sample8",
+            "request": "launch",
+            "mainClass": "Sample8",
+            "projectName": "JAVA_5b27c5ea"
+        },
+        {
+            "type": "java",
+            "name": "Sample7",
+            "request": "launch",
+            "mainClass": "Sample7",
+            "projectName": "JAVA_5b27c5ea"
+        },
+        {
+            "type": "java",
+            "name": "sample7",
+            "request": "launch",
+            "mainClass": "sample7",
+            "projectName": "JAVA_5b27c5ea"
+        },
+        {
+            "type": "java",
+            "name": "Dentaku",
+            "request": "launch",
+            "mainClass": "Dentaku",
+            "projectName": "JAVA_5b27c5ea"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
